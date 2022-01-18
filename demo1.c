@@ -1,9 +1,13 @@
 #include <stdio.h>
 
+
+
 int main ()
 	{
-
-		printf("%f \n", 10.0/3);
-
-    	return 0 ;
+		printf("%f \n",1/2*2);
+		return 0;
 	}
+
+
+
+
